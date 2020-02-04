@@ -1,0 +1,6 @@
+node_modules/
+docker-deploy-app-run.sh
+docker-compose-dev.yml
+docker-compose-prod.yml
+Dockerfile-dev
+Dockerfile-prod
