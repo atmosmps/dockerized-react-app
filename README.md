@@ -7,14 +7,14 @@ Este repositório contém um script que foi criado para facilitar a conteineriza
 
 Para levantar containers preparados para desenvolvimento utilize:
 
-```./docker-deploy-app-run.sh --dev```
+```./run-app-deploy.sh --dev```
 
 Para levantar containers preparados para produção utilize:
 
-```./docker-deploy-app-run.sh --prod```
+```./run-app-deploy.sh --prod```
 
-p.s: se você tiver problemas para executar o arquivo ```docker-deploy-app-run.sh``` execute o seguinte comando:
+p.s: se você tiver problemas para executar o arquivo ```run-app-deploy.sh``` execute o seguinte comando:
 
-```chmod +x docker-deploy-app-run.sh```
+```chmod +x run-app-deploy.sh```
 
 Sugestões são bem vindas :)
